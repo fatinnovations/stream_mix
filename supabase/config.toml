@@ -1,0 +1,7 @@
+project_id = "akvrknoiyywmyjiimkph"
+
+[functions.hum-recognize]
+verify_jwt = false
+
+[functions.create-artist]
+verify_jwt = false
